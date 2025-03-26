@@ -8,7 +8,7 @@ Beyond maintaining my own personal computer network, which I host various websit
 
 ### `eambfc` and `eambfc-rs`
 
-My main project since May 2024 has been [`eambfc`](https://github.com/eliminmax/eambfc), alongside its counterpart in the form of [`eambfc-rs`](https://github.com/eliminmax/eambfc-rs). What started as an attempt to help me learn C and later Rust by implementing a compiler for Urban Müller's infamous programming language, has turned into a deep dive into the POSIX and C standards and its pitfalls, tooling and testing frameworks for C and Rust, the oddities of different instruction set architectures, and the Linux system call ABI.
+My main project since May 2024 has been [`eambfc`](https://github.com/eliminmax/eambfc), alongside its counterpar, [`eambfc-rs`](https://github.com/eliminmax/eambfc-rs). What started as an attempt to help me learn C and later Rust by implementing a compiler for Urban Müller's infamous programming language, has turned into a deep dive into the POSIX and C standards and its pitfalls, tooling and testing frameworks for C and Rust, the oddities of different instruction set architectures, and the Linux system call ABI.
 
 `eambfc` runs on any POSIX.1-2008 compliant system, and `eambfc-rs` runs on any supported Rust.
 
